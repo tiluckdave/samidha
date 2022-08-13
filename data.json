@@ -1,0 +1,1946 @@
+[
+ {
+   "Time": "1/28/2017",
+   "Port_name": "mumbai",
+   "fuel_consumed": 45,
+   "cost": 3
+ },
+ {
+   "Time": "2/28/2017",
+   "Port_name": "mumbai",
+   "fuel_consumed": 34,
+   "cost": 4
+ },
+ {
+   "Time": "3/28/2017",
+   "Port_name": "mumbai",
+   "fuel_consumed": 67,
+   "cost": 12
+ },
+ {
+   "Time": "4/28/2017",
+   "Port_name": "mumbai",
+   "fuel_consumed": 89,
+   "cost": 14
+ },
+ {
+   "Time": "5/28/2017",
+   "Port_name": "mumbai",
+   "fuel_consumed": 23,
+   "cost": 23
+ },
+ {
+   "Time": "6/28/2017",
+   "Port_name": "mumbai",
+   "fuel_consumed": 67,
+   "cost": 23
+ },
+ {
+   "Time": "7/28/2017",
+   "Port_name": "mumbai",
+   "fuel_consumed": 90,
+   "cost": 7
+ },
+ {
+   "Time": "8/28/2017",
+   "Port_name": "mumbai",
+   "fuel_consumed": 34,
+   "cost": 8
+ },
+ {
+   "Time": "9/28/2017",
+   "Port_name": "mumbai",
+   "fuel_consumed": 23,
+   "cost": 9
+ },
+ {
+   "Time": "10/28/2017",
+   "Port_name": "mumbai",
+   "fuel_consumed": 123,
+   "cost": 25
+ },
+ {
+   "Time": "11/28/2017",
+   "Port_name": "mumbai",
+   "fuel_consumed": 56,
+   "cost": 24
+ },
+ {
+   "Time": "12/28/2017",
+   "Port_name": "mumbai",
+   "fuel_consumed": 78,
+   "cost": 26
+ },
+ {
+   "Time": "1/28/2018",
+   "Port_name": "mumbai",
+   "fuel_consumed": 56,
+   "cost": 56
+ },
+ {
+   "Time": "2/28/2018",
+   "Port_name": "mumbai",
+   "fuel_consumed": 87,
+   "cost": 13
+ },
+ {
+   "Time": "3/28/2018",
+   "Port_name": "mumbai",
+   "fuel_consumed": 45,
+   "cost": 23
+ },
+ {
+   "Time": "4/28/2018",
+   "Port_name": "mumbai",
+   "fuel_consumed": 35,
+   "cost": 35
+ },
+ {
+   "Time": "5/28/2018",
+   "Port_name": "mumbai",
+   "fuel_consumed": 67,
+   "cost": 23
+ },
+ {
+   "Time": "6/28/2018",
+   "Port_name": "mumbai",
+   "fuel_consumed": 45,
+   "cost": 24
+ },
+ {
+   "Time": "7/28/2018",
+   "Port_name": "mumbai",
+   "fuel_consumed": 92,
+   "cost": 14
+ },
+ {
+   "Time": "8/28/2018",
+   "Port_name": "mumbai",
+   "fuel_consumed": 200,
+   "cost": 34
+ },
+ {
+   "Time": "9/28/2018",
+   "Port_name": "mumbai",
+   "fuel_consumed": 45,
+   "cost": 23
+ },
+ {
+   "Time": "10/28/2018",
+   "Port_name": "mumbai",
+   "fuel_consumed": 23,
+   "cost": 45
+ },
+ {
+   "Time": "11/28/2018",
+   "Port_name": "mumbai",
+   "fuel_consumed": 43,
+   "cost": 23
+ },
+ {
+   "Time": "12/28/2018",
+   "Port_name": "mumbai",
+   "fuel_consumed": 63,
+   "cost": 12
+ },
+ {
+   "Time": "1/28/2019",
+   "Port_name": "mumbai",
+   "fuel_consumed": 65,
+   "cost": 34
+ },
+ {
+   "Time": "2/28/2019",
+   "Port_name": "mumbai",
+   "fuel_consumed": 97,
+   "cost": 23
+ },
+ {
+   "Time": "3/28/2019",
+   "Port_name": "mumbai",
+   "fuel_consumed": 86,
+   "cost": 13
+ },
+ {
+   "Time": "4/28/2019",
+   "Port_name": "mumbai",
+   "fuel_consumed": 65,
+   "cost": 24
+ },
+ {
+   "Time": "5/28/2019",
+   "Port_name": "mumbai",
+   "fuel_consumed": 45,
+   "cost": 15
+ },
+ {
+   "Time": "6/28/2019",
+   "Port_name": "mumbai",
+   "fuel_consumed": 34,
+   "cost": 24
+ },
+ {
+   "Time": "7/28/2019",
+   "Port_name": "mumbai",
+   "fuel_consumed": 56,
+   "cost": 34
+ },
+ {
+   "Time": "8/28/2019",
+   "Port_name": "mumbai",
+   "fuel_consumed": 34,
+   "cost": 45
+ },
+ {
+   "Time": "9/28/2019",
+   "Port_name": "mumbai",
+   "fuel_consumed": 67,
+   "cost": 23
+ },
+ {
+   "Time": "10/28/2019",
+   "Port_name": "mumbai",
+   "fuel_consumed": 76,
+   "cost": 14
+ },
+ {
+   "Time": "11/28/2019",
+   "Port_name": "mumbai",
+   "fuel_consumed": 54,
+   "cost": 25
+ },
+ {
+   "Time": "12/28/2019",
+   "Port_name": "mumbai",
+   "fuel_consumed": 43,
+   "cost": 34
+ },
+ {
+   "Time": "1/28/2017",
+   "Port_name": "coachi",
+   "fuel_consumed": 34,
+   "cost": 46
+ },
+ {
+   "Time": "2/28/2017",
+   "Port_name": "coachi",
+   "fuel_consumed": 6,
+   "cost": 46
+ },
+ {
+   "Time": "3/28/2017",
+   "Port_name": "coachi",
+   "fuel_consumed": 56,
+   "cost": 46
+ },
+ {
+   "Time": "4/28/2017",
+   "Port_name": "coachi",
+   "fuel_consumed": 78,
+   "cost": 46
+ },
+ {
+   "Time": "5/28/2017",
+   "Port_name": "coachi",
+   "fuel_consumed": 90,
+   "cost": 46
+ },
+ {
+   "Time": "6/28/2017",
+   "Port_name": "coachi",
+   "fuel_consumed": 34,
+   "cost": 46
+ },
+ {
+   "Time": "7/28/2017",
+   "Port_name": "coachi",
+   "fuel_consumed": 56,
+   "cost": 46
+ },
+ {
+   "Time": "8/28/2017",
+   "Port_name": "coachi",
+   "fuel_consumed": 34,
+   "cost": 46
+ },
+ {
+   "Time": "9/28/2017",
+   "Port_name": "coachi",
+   "fuel_consumed": 67,
+   "cost": 46
+ },
+ {
+   "Time": "10/28/2017",
+   "Port_name": "coachi",
+   "fuel_consumed": 90,
+   "cost": 46
+ },
+ {
+   "Time": "11/28/2017",
+   "Port_name": "coachi",
+   "fuel_consumed": 82,
+   "cost": 46
+ },
+ {
+   "Time": "12/28/2017",
+   "Port_name": "coachi",
+   "fuel_consumed": 73,
+   "cost": 46
+ },
+ {
+   "Time": "1/28/2018",
+   "Port_name": "coachi",
+   "fuel_consumed": 23,
+   "cost": 46
+ },
+ {
+   "Time": "2/28/2018",
+   "Port_name": "coachi",
+   "fuel_consumed": 67,
+   "cost": 46
+ },
+ {
+   "Time": "3/28/2018",
+   "Port_name": "coachi",
+   "fuel_consumed": 54,
+   "cost": 46
+ },
+ {
+   "Time": "4/28/2018",
+   "Port_name": "coachi",
+   "fuel_consumed": 64,
+   "cost": 46
+ },
+ {
+   "Time": "5/28/2018",
+   "Port_name": "coachi",
+   "fuel_consumed": 76,
+   "cost": 46
+ },
+ {
+   "Time": "6/28/2018",
+   "Port_name": "coachi",
+   "fuel_consumed": 87,
+   "cost": 46
+ },
+ {
+   "Time": "7/28/2018",
+   "Port_name": "coachi",
+   "fuel_consumed": 76,
+   "cost": 46
+ },
+ {
+   "Time": "8/28/2018",
+   "Port_name": "coachi",
+   "fuel_consumed": 45,
+   "cost": 46
+ },
+ {
+   "Time": "9/28/2018",
+   "Port_name": "coachi",
+   "fuel_consumed": 98,
+   "cost": 46
+ },
+ {
+   "Time": "10/28/2018",
+   "Port_name": "coachi",
+   "fuel_consumed": 54,
+   "cost": 46
+ },
+ {
+   "Time": "11/28/2018",
+   "Port_name": "coachi",
+   "fuel_consumed": 54,
+   "cost": 46
+ },
+ {
+   "Time": "12/28/2018",
+   "Port_name": "coachi",
+   "fuel_consumed": 78,
+   "cost": 46
+ },
+ {
+   "Time": "1/28/2019",
+   "Port_name": "coachi",
+   "fuel_consumed": 67,
+   "cost": 46
+ },
+ {
+   "Time": "2/28/2019",
+   "Port_name": "coachi",
+   "fuel_consumed": 56,
+   "cost": 46
+ },
+ {
+   "Time": "3/28/2019",
+   "Port_name": "coachi",
+   "fuel_consumed": 45,
+   "cost": 46
+ },
+ {
+   "Time": "4/28/2019",
+   "Port_name": "coachi",
+   "fuel_consumed": 34,
+   "cost": 46
+ },
+ {
+   "Time": "5/28/2019",
+   "Port_name": "coachi",
+   "fuel_consumed": 23,
+   "cost": 46
+ },
+ {
+   "Time": "6/28/2019",
+   "Port_name": "coachi",
+   "fuel_consumed": 14,
+   "cost": 46
+ },
+ {
+   "Time": "7/28/2019",
+   "Port_name": "coachi",
+   "fuel_consumed": 35,
+   "cost": 46
+ },
+ {
+   "Time": "8/28/2019",
+   "Port_name": "coachi",
+   "fuel_consumed": 23,
+   "cost": 46
+ },
+ {
+   "Time": "9/28/2019",
+   "Port_name": "coachi",
+   "fuel_consumed": 45,
+   "cost": 46
+ },
+ {
+   "Time": "10/28/2019",
+   "Port_name": "coachi",
+   "fuel_consumed": 90,
+   "cost": null
+ },
+ {
+   "Time": "11/28/2019",
+   "Port_name": "coachi",
+   "fuel_consumed": 87,
+   "cost": null
+ },
+ {
+   "Time": "12/28/2019",
+   "Port_name": "coachi",
+   "fuel_consumed": 36,
+   "cost": null
+ },
+ {
+   "Time": "1/28/2017",
+   "Port_name": "visakhapatnam",
+   "fuel_consumed": 19.84715774,
+   "cost": 34
+ },
+ {
+   "Time": "2/28/2017",
+   "Port_name": "visakhapatnam",
+   "fuel_consumed": 19.94172555,
+   "cost": 34
+ },
+ {
+   "Time": "3/28/2017",
+   "Port_name": "visakhapatnam",
+   "fuel_consumed": 19.56559743,
+   "cost": 34
+ },
+ {
+   "Time": "4/28/2017",
+   "Port_name": "visakhapatnam",
+   "fuel_consumed": 19.16877172,
+   "cost": 34
+ },
+ {
+   "Time": "5/28/2017",
+   "Port_name": "visakhapatnam",
+   "fuel_consumed": 19.41050611,
+   "cost": 34
+ },
+ {
+   "Time": "6/28/2017",
+   "Port_name": "visakhapatnam",
+   "fuel_consumed": 19.88073746,
+   "cost": 34
+ },
+ {
+   "Time": "7/28/2017",
+   "Port_name": "visakhapatnam",
+   "fuel_consumed": 19.48194643,
+   "cost": 34
+ },
+ {
+   "Time": "8/28/2017",
+   "Port_name": "visakhapatnam",
+   "fuel_consumed": 18.85453477,
+   "cost": 34
+ },
+ {
+   "Time": "9/28/2017",
+   "Port_name": "visakhapatnam",
+   "fuel_consumed": 18.41930191,
+   "cost": 34
+ },
+ {
+   "Time": "10/28/2017",
+   "Port_name": "visakhapatnam",
+   "fuel_consumed": 18.30114492,
+   "cost": 34
+ },
+ {
+   "Time": "11/28/2017",
+   "Port_name": "visakhapatnam",
+   "fuel_consumed": 18.26626876,
+   "cost": 34
+ },
+ {
+   "Time": "12/28/2017",
+   "Port_name": "visakhapatnam",
+   "fuel_consumed": 17.21447155,
+   "cost": 34
+ },
+ {
+   "Time": "1/28/2018",
+   "Port_name": "visakhapatnam",
+   "fuel_consumed": 26.15150299,
+   "cost": 34
+ },
+ {
+   "Time": "2/28/2018",
+   "Port_name": "visakhapatnam",
+   "fuel_consumed": 34.32772372,
+   "cost": 34
+ },
+ {
+   "Time": "3/28/2018",
+   "Port_name": "visakhapatnam",
+   "fuel_consumed": 18.36476022,
+   "cost": 34
+ },
+ {
+   "Time": "4/28/2018",
+   "Port_name": "visakhapatnam",
+   "fuel_consumed": 16.87416857,
+   "cost": 34
+ },
+ {
+   "Time": "5/28/2018",
+   "Port_name": "visakhapatnam",
+   "fuel_consumed": 16.85709129,
+   "cost": 34
+ },
+ {
+   "Time": "6/28/2018",
+   "Port_name": "visakhapatnam",
+   "fuel_consumed": 16.77778402,
+   "cost": 34
+ },
+ {
+   "Time": "7/28/2018",
+   "Port_name": "visakhapatnam",
+   "fuel_consumed": 16.78088626,
+   "cost": 34
+ },
+ {
+   "Time": "8/28/2018",
+   "Port_name": "visakhapatnam",
+   "fuel_consumed": 16.78394194,
+   "cost": 34
+ },
+ {
+   "Time": "9/28/2018",
+   "Port_name": "visakhapatnam",
+   "fuel_consumed": 16.7133208,
+   "cost": 34
+ },
+ {
+   "Time": "10/28/2018",
+   "Port_name": "visakhapatnam",
+   "fuel_consumed": 16.73420706,
+   "cost": 34
+ },
+ {
+   "Time": "11/28/2018",
+   "Port_name": "visakhapatnam",
+   "fuel_consumed": 16.58695692,
+   "cost": 34
+ },
+ {
+   "Time": "12/28/2018",
+   "Port_name": "visakhapatnam",
+   "fuel_consumed": 16.51558306,
+   "cost": 34
+ },
+ {
+   "Time": "1/28/2019",
+   "Port_name": "visakhapatnam",
+   "fuel_consumed": 16.47346682,
+   "cost": 34
+ },
+ {
+   "Time": "2/28/2019",
+   "Port_name": "visakhapatnam",
+   "fuel_consumed": 16.4855028,
+   "cost": 34
+ },
+ {
+   "Time": "3/28/2019",
+   "Port_name": "visakhapatnam",
+   "fuel_consumed": 16.48715184,
+   "cost": 34
+ },
+ {
+   "Time": "4/28/2019",
+   "Port_name": "visakhapatnam",
+   "fuel_consumed": 16.3867426,
+   "cost": 34
+ },
+ {
+   "Time": "5/28/2019",
+   "Port_name": "visakhapatnam",
+   "fuel_consumed": 16.36929017,
+   "cost": 34
+ },
+ {
+   "Time": "6/28/2019",
+   "Port_name": "visakhapatnam",
+   "fuel_consumed": 16.38568208,
+   "cost": 34
+ },
+ {
+   "Time": "7/28/2019",
+   "Port_name": "visakhapatnam",
+   "fuel_consumed": 16.38431855,
+   "cost": 34
+ },
+ {
+   "Time": "8/28/2019",
+   "Port_name": "visakhapatnam",
+   "fuel_consumed": 16.35389856,
+   "cost": 34
+ },
+ {
+   "Time": "9/28/2019",
+   "Port_name": "visakhapatnam",
+   "fuel_consumed": 16.28105736,
+   "cost": 34
+ },
+ {
+   "Time": "10/28/2019",
+   "Port_name": "visakhapatnam",
+   "fuel_consumed": 16.41007545,
+   "cost": 34
+ },
+ {
+   "Time": "11/28/2019",
+   "Port_name": "visakhapatnam",
+   "fuel_consumed": 16.49429256,
+   "cost": 34
+ },
+ {
+   "Time": "12/28/2019",
+   "Port_name": "visakhapatnam",
+   "fuel_consumed": 16.46790841,
+   "cost": 34
+ },
+ {
+   "Time": "1/28/2017",
+   "Port_name": "ennore",
+   "fuel_consumed": 16.36376954,
+   "cost": 56
+ },
+ {
+   "Time": "2/28/2017",
+   "Port_name": "ennore",
+   "fuel_consumed": 16.34908417,
+   "cost": 56
+ },
+ {
+   "Time": "3/28/2017",
+   "Port_name": "ennore",
+   "fuel_consumed": 16.20761985,
+   "cost": 56
+ },
+ {
+   "Time": "4/28/2017",
+   "Port_name": "ennore",
+   "fuel_consumed": 16.23052721,
+   "cost": 56
+ },
+ {
+   "Time": "5/28/2017",
+   "Port_name": "ennore",
+   "fuel_consumed": 16.18921976,
+   "cost": 56
+ },
+ {
+   "Time": "6/28/2017",
+   "Port_name": "ennore",
+   "fuel_consumed": 16.22308655,
+   "cost": 56
+ },
+ {
+   "Time": "7/28/2017",
+   "Port_name": "ennore",
+   "fuel_consumed": 42.67651402,
+   "cost": 56
+ },
+ {
+   "Time": "8/28/2017",
+   "Port_name": "ennore",
+   "fuel_consumed": 42.85577466,
+   "cost": 56
+ },
+ {
+   "Time": "9/28/2017",
+   "Port_name": "ennore",
+   "fuel_consumed": 43.21555368,
+   "cost": 56
+ },
+ {
+   "Time": "10/28/2017",
+   "Port_name": "ennore",
+   "fuel_consumed": 42.92044718,
+   "cost": 56
+ },
+ {
+   "Time": "11/28/2017",
+   "Port_name": "ennore",
+   "fuel_consumed": 42.59166835,
+   "cost": 56
+ },
+ {
+   "Time": "12/28/2017",
+   "Port_name": "ennore",
+   "fuel_consumed": 42.71298716,
+   "cost": 56
+ },
+ {
+   "Time": "1/28/2018",
+   "Port_name": "ennore",
+   "fuel_consumed": 42.74978134,
+   "cost": 56
+ },
+ {
+   "Time": "2/28/2018",
+   "Port_name": "ennore",
+   "fuel_consumed": 40.30964882,
+   "cost": 56
+ },
+ {
+   "Time": "3/28/2018",
+   "Port_name": "ennore",
+   "fuel_consumed": 39.94564252,
+   "cost": 56
+ },
+ {
+   "Time": "4/28/2018",
+   "Port_name": "ennore",
+   "fuel_consumed": 39.85671619,
+   "cost": 56
+ },
+ {
+   "Time": "5/28/2018",
+   "Port_name": "ennore",
+   "fuel_consumed": 39.90434892,
+   "cost": 56
+ },
+ {
+   "Time": "6/28/2018",
+   "Port_name": "ennore",
+   "fuel_consumed": 39.91071996,
+   "cost": 56
+ },
+ {
+   "Time": "7/28/2018",
+   "Port_name": "ennore",
+   "fuel_consumed": 39.87225238,
+   "cost": 56
+ },
+ {
+   "Time": "8/28/2018",
+   "Port_name": "ennore",
+   "fuel_consumed": 39.88109675,
+   "cost": 56
+ },
+ {
+   "Time": "9/28/2018",
+   "Port_name": "ennore",
+   "fuel_consumed": 39.81740274,
+   "cost": 56
+ },
+ {
+   "Time": "10/28/2018",
+   "Port_name": "ennore",
+   "fuel_consumed": 39.83261632,
+   "cost": 56
+ },
+ {
+   "Time": "11/28/2018",
+   "Port_name": "ennore",
+   "fuel_consumed": 39.84977852,
+   "cost": 56
+ },
+ {
+   "Time": "12/28/2018",
+   "Port_name": "ennore",
+   "fuel_consumed": 39.8184075,
+   "cost": 56
+ },
+ {
+   "Time": "1/28/2019",
+   "Port_name": "ennore",
+   "fuel_consumed": 41.08290722,
+   "cost": 56
+ },
+ {
+   "Time": "2/28/2019",
+   "Port_name": "ennore",
+   "fuel_consumed": 42.78172209,
+   "cost": 56
+ },
+ {
+   "Time": "3/28/2019",
+   "Port_name": "ennore",
+   "fuel_consumed": 42.75401788,
+   "cost": 56
+ },
+ {
+   "Time": "4/28/2019",
+   "Port_name": "ennore",
+   "fuel_consumed": 42.60872951,
+   "cost": 56
+ },
+ {
+   "Time": "5/28/2019",
+   "Port_name": "ennore",
+   "fuel_consumed": 40.40421388,
+   "cost": 56
+ },
+ {
+   "Time": "6/28/2019",
+   "Port_name": "ennore",
+   "fuel_consumed": 36.95564672,
+   "cost": 56
+ },
+ {
+   "Time": "7/28/2019",
+   "Port_name": "ennore",
+   "fuel_consumed": 36.99077193,
+   "cost": 56
+ },
+ {
+   "Time": "8/28/2019",
+   "Port_name": "ennore",
+   "fuel_consumed": 36.86712555,
+   "cost": 56
+ },
+ {
+   "Time": "9/28/2019",
+   "Port_name": "ennore",
+   "fuel_consumed": 37.01596585,
+   "cost": 56
+ },
+ {
+   "Time": "10/28/2019",
+   "Port_name": "ennore",
+   "fuel_consumed": 36.92816754,
+   "cost": 56
+ },
+ {
+   "Time": "11/28/2019",
+   "Port_name": "ennore",
+   "fuel_consumed": 36.9694365,
+   "cost": 56
+ },
+ {
+   "Time": "12/28/2019",
+   "Port_name": "ennore",
+   "fuel_consumed": 36.96095658,
+   "cost": 56
+ },
+ {
+   "Time": "1/28/2017",
+   "Port_name": "tuticorin",
+   "fuel_consumed": 37.00394998,
+   "cost": 24
+ },
+ {
+   "Time": "2/28/2017",
+   "Port_name": "tuticorin",
+   "fuel_consumed": 37.02868118,
+   "cost": 24
+ },
+ {
+   "Time": "3/28/2017",
+   "Port_name": "tuticorin",
+   "fuel_consumed": 37.09712021,
+   "cost": 24
+ },
+ {
+   "Time": "4/28/2017",
+   "Port_name": "tuticorin",
+   "fuel_consumed": 38.22756475,
+   "cost": 24
+ },
+ {
+   "Time": "5/28/2017",
+   "Port_name": "tuticorin",
+   "fuel_consumed": 40.29831359,
+   "cost": 24
+ },
+ {
+   "Time": "6/28/2017",
+   "Port_name": "tuticorin",
+   "fuel_consumed": 40.22393138,
+   "cost": 24
+ },
+ {
+   "Time": "7/28/2017",
+   "Port_name": "tuticorin",
+   "fuel_consumed": 40.18859756,
+   "cost": 24
+ },
+ {
+   "Time": "8/28/2017",
+   "Port_name": "tuticorin",
+   "fuel_consumed": 40.05097283,
+   "cost": 24
+ },
+ {
+   "Time": "9/28/2017",
+   "Port_name": "tuticorin",
+   "fuel_consumed": 40.00896652,
+   "cost": 24
+ },
+ {
+   "Time": "10/28/2017",
+   "Port_name": "tuticorin",
+   "fuel_consumed": 42.69126826,
+   "cost": 24
+ },
+ {
+   "Time": "11/28/2017",
+   "Port_name": "tuticorin",
+   "fuel_consumed": 43.12226859,
+   "cost": 24
+ },
+ {
+   "Time": "12/28/2017",
+   "Port_name": "tuticorin",
+   "fuel_consumed": 43.10432067,
+   "cost": 24
+ },
+ {
+   "Time": "1/28/2018",
+   "Port_name": "tuticorin",
+   "fuel_consumed": 30.23619557,
+   "cost": 24
+ },
+ {
+   "Time": "2/28/2018",
+   "Port_name": "tuticorin",
+   "fuel_consumed": 3.017384988,
+   "cost": 24
+ },
+ {
+   "Time": "3/28/2018",
+   "Port_name": "tuticorin",
+   "fuel_consumed": -0.047800019,
+   "cost": 24
+ },
+ {
+   "Time": "4/28/2018",
+   "Port_name": "tuticorin",
+   "fuel_consumed": -0.047653429,
+   "cost": 24
+ },
+ {
+   "Time": "5/28/2018",
+   "Port_name": "tuticorin",
+   "fuel_consumed": -0.047630405,
+   "cost": 24
+ },
+ {
+   "Time": "6/28/2018",
+   "Port_name": "tuticorin",
+   "fuel_consumed": 3.798151812,
+   "cost": 24
+ },
+ {
+   "Time": "7/28/2018",
+   "Port_name": "tuticorin",
+   "fuel_consumed": -0.047840094,
+   "cost": 24
+ },
+ {
+   "Time": "8/28/2018",
+   "Port_name": "tuticorin",
+   "fuel_consumed": -0.047629604,
+   "cost": 24
+ },
+ {
+   "Time": "9/28/2018",
+   "Port_name": "tuticorin",
+   "fuel_consumed": 1.334513768,
+   "cost": 24
+ },
+ {
+   "Time": "10/28/2018",
+   "Port_name": "tuticorin",
+   "fuel_consumed": 4.603884141,
+   "cost": 24
+ },
+ {
+   "Time": "11/28/2018",
+   "Port_name": "tuticorin",
+   "fuel_consumed": -0.047683731,
+   "cost": 24
+ },
+ {
+   "Time": "12/28/2018",
+   "Port_name": "tuticorin",
+   "fuel_consumed": -0.048,
+   "cost": 24
+ },
+ {
+   "Time": "1/28/2019",
+   "Port_name": "tuticorin",
+   "fuel_consumed": 2.666977141,
+   "cost": 24
+ },
+ {
+   "Time": "2/28/2019",
+   "Port_name": "tuticorin",
+   "fuel_consumed": 7.555761661,
+   "cost": 24
+ },
+ {
+   "Time": "3/28/2019",
+   "Port_name": "tuticorin",
+   "fuel_consumed": -0.048,
+   "cost": 24
+ },
+ {
+   "Time": "4/28/2019",
+   "Port_name": "tuticorin",
+   "fuel_consumed": 6.718171907,
+   "cost": 24
+ },
+ {
+   "Time": "5/28/2019",
+   "Port_name": "tuticorin",
+   "fuel_consumed": 2.974241335,
+   "cost": 24
+ },
+ {
+   "Time": "6/28/2019",
+   "Port_name": "tuticorin",
+   "fuel_consumed": 2.317984241,
+   "cost": 24
+ },
+ {
+   "Time": "7/28/2019",
+   "Port_name": "tuticorin",
+   "fuel_consumed": 2.553184429,
+   "cost": 24
+ },
+ {
+   "Time": "8/28/2019",
+   "Port_name": "tuticorin",
+   "fuel_consumed": 19.8507263,
+   "cost": 24
+ },
+ {
+   "Time": "9/28/2019",
+   "Port_name": "tuticorin",
+   "fuel_consumed": 19.81359877,
+   "cost": 24
+ },
+ {
+   "Time": "10/28/2019",
+   "Port_name": "tuticorin",
+   "fuel_consumed": 19.83217463,
+   "cost": 24
+ },
+ {
+   "Time": "11/28/2019",
+   "Port_name": "tuticorin",
+   "fuel_consumed": 19.85628302,
+   "cost": 24
+ },
+ {
+   "Time": "12/28/2019",
+   "Port_name": "tuticorin",
+   "fuel_consumed": 19.76130455,
+   "cost": 24
+ },
+ {
+   "Time": "1/28/2017",
+   "Port_name": "chennai",
+   "fuel_consumed": 30.38922046,
+   "cost": 34
+ },
+ {
+   "Time": "2/28/2017",
+   "Port_name": "chennai",
+   "fuel_consumed": 38.67813463,
+   "cost": 45
+ },
+ {
+   "Time": "3/28/2017",
+   "Port_name": "chennai",
+   "fuel_consumed": 27.22630961,
+   "cost": 45
+ },
+ {
+   "Time": "4/28/2017",
+   "Port_name": "chennai",
+   "fuel_consumed": 27.09871554,
+   "cost": 45
+ },
+ {
+   "Time": "5/28/2017",
+   "Port_name": "chennai",
+   "fuel_consumed": 26.99061818,
+   "cost": 45
+ },
+ {
+   "Time": "6/28/2017",
+   "Port_name": "chennai",
+   "fuel_consumed": 26.96099198,
+   "cost": 45
+ },
+ {
+   "Time": "7/28/2017",
+   "Port_name": "chennai",
+   "fuel_consumed": 26.79685045,
+   "cost": 45
+ },
+ {
+   "Time": "8/28/2017",
+   "Port_name": "chennai",
+   "fuel_consumed": 26.67837112,
+   "cost": 23
+ },
+ {
+   "Time": "9/28/2017",
+   "Port_name": "chennai",
+   "fuel_consumed": 26.71921471,
+   "cost": 23
+ },
+ {
+   "Time": "10/28/2017",
+   "Port_name": "chennai",
+   "fuel_consumed": 26.70330354,
+   "cost": 23
+ },
+ {
+   "Time": "11/28/2017",
+   "Port_name": "chennai",
+   "fuel_consumed": 26.72505764,
+   "cost": 23
+ },
+ {
+   "Time": "12/28/2017",
+   "Port_name": "chennai",
+   "fuel_consumed": 26.6671529,
+   "cost": 23
+ },
+ {
+   "Time": "1/28/2018",
+   "Port_name": "chennai",
+   "fuel_consumed": 26.65056001,
+   "cost": 23
+ },
+ {
+   "Time": "2/28/2018",
+   "Port_name": "chennai",
+   "fuel_consumed": 26.66971962,
+   "cost": 23
+ },
+ {
+   "Time": "3/28/2018",
+   "Port_name": "chennai",
+   "fuel_consumed": 26.70797051,
+   "cost": 23
+ },
+ {
+   "Time": "4/28/2018",
+   "Port_name": "chennai",
+   "fuel_consumed": 26.71527148,
+   "cost": 23
+ },
+ {
+   "Time": "5/28/2018",
+   "Port_name": "chennai",
+   "fuel_consumed": 26.62040703,
+   "cost": 23
+ },
+ {
+   "Time": "6/28/2018",
+   "Port_name": "chennai",
+   "fuel_consumed": 26.55717797,
+   "cost": 36
+ },
+ {
+   "Time": "7/28/2018",
+   "Port_name": "chennai",
+   "fuel_consumed": 26.61438529,
+   "cost": 36
+ },
+ {
+   "Time": "8/28/2018",
+   "Port_name": "chennai",
+   "fuel_consumed": 26.53141478,
+   "cost": 36
+ },
+ {
+   "Time": "9/28/2018",
+   "Port_name": "chennai",
+   "fuel_consumed": 26.61947028,
+   "cost": 36
+ },
+ {
+   "Time": "10/28/2018",
+   "Port_name": "chennai",
+   "fuel_consumed": 26.58283114,
+   "cost": 36
+ },
+ {
+   "Time": "11/28/2018",
+   "Port_name": "chennai",
+   "fuel_consumed": 26.57856999,
+   "cost": 36
+ },
+ {
+   "Time": "12/28/2018",
+   "Port_name": "chennai",
+   "fuel_consumed": 26.62691525,
+   "cost": 36
+ },
+ {
+   "Time": "1/28/2019",
+   "Port_name": "chennai",
+   "fuel_consumed": 26.56467816,
+   "cost": 36
+ },
+ {
+   "Time": "2/28/2019",
+   "Port_name": "chennai",
+   "fuel_consumed": 26.56485719,
+   "cost": 36
+ },
+ {
+   "Time": "3/28/2019",
+   "Port_name": "chennai",
+   "fuel_consumed": 26.57134148,
+   "cost": 36
+ },
+ {
+   "Time": "4/28/2019",
+   "Port_name": "chennai",
+   "fuel_consumed": 26.66309038,
+   "cost": 36
+ },
+ {
+   "Time": "5/28/2019",
+   "Port_name": "chennai",
+   "fuel_consumed": 26.66291016,
+   "cost": 36
+ },
+ {
+   "Time": "6/28/2019",
+   "Port_name": "chennai",
+   "fuel_consumed": 26.65898094,
+   "cost": 45
+ },
+ {
+   "Time": "7/28/2019",
+   "Port_name": "chennai",
+   "fuel_consumed": 26.46614011,
+   "cost": 45
+ },
+ {
+   "Time": "8/28/2019",
+   "Port_name": "chennai",
+   "fuel_consumed": 26.41122997,
+   "cost": 45
+ },
+ {
+   "Time": "9/28/2019",
+   "Port_name": "chennai",
+   "fuel_consumed": 26.27918244,
+   "cost": 45
+ },
+ {
+   "Time": "10/28/2019",
+   "Port_name": "chennai",
+   "fuel_consumed": 26.31008433,
+   "cost": 45
+ },
+ {
+   "Time": "11/28/2019",
+   "Port_name": "chennai",
+   "fuel_consumed": 26.15583159,
+   "cost": 45
+ },
+ {
+   "Time": "12/28/2019",
+   "Port_name": "chennai",
+   "fuel_consumed": 26.09553358,
+   "cost": 45
+ },
+ {
+   "Time": "1/28/2017",
+   "Port_name": "kolkata",
+   "fuel_consumed": 26.08543429,
+   "cost": 45
+ },
+ {
+   "Time": "2/28/2017",
+   "Port_name": "kolkata",
+   "fuel_consumed": 26.19111818,
+   "cost": 45
+ },
+ {
+   "Time": "3/28/2017",
+   "Port_name": "kolkata",
+   "fuel_consumed": 26.03477444,
+   "cost": 45
+ },
+ {
+   "Time": "4/28/2017",
+   "Port_name": "kolkata",
+   "fuel_consumed": 26.06793202,
+   "cost": 45
+ },
+ {
+   "Time": "5/28/2017",
+   "Port_name": "kolkata",
+   "fuel_consumed": 25.97469508,
+   "cost": 36
+ },
+ {
+   "Time": "6/28/2017",
+   "Port_name": "kolkata",
+   "fuel_consumed": 25.99762073,
+   "cost": 34
+ },
+ {
+   "Time": "7/28/2017",
+   "Port_name": "kolkata",
+   "fuel_consumed": 28.75280396,
+   "cost": 34
+ },
+ {
+   "Time": "8/28/2017",
+   "Port_name": "kolkata",
+   "fuel_consumed": 36.10470997,
+   "cost": 34
+ },
+ {
+   "Time": "9/28/2017",
+   "Port_name": "kolkata",
+   "fuel_consumed": 25.65239016,
+   "cost": 34
+ },
+ {
+   "Time": "10/28/2017",
+   "Port_name": "kolkata",
+   "fuel_consumed": 25.67666181,
+   "cost": 34
+ },
+ {
+   "Time": "11/28/2017",
+   "Port_name": "kolkata",
+   "fuel_consumed": 24.72914175,
+   "cost": 34
+ },
+ {
+   "Time": "12/28/2017",
+   "Port_name": "kolkata",
+   "fuel_consumed": 24.12734721,
+   "cost": 34
+ },
+ {
+   "Time": "1/28/2018",
+   "Port_name": "kolkata",
+   "fuel_consumed": 24.14749011,
+   "cost": 25
+ },
+ {
+   "Time": "2/28/2018",
+   "Port_name": "kolkata",
+   "fuel_consumed": 24.13241371,
+   "cost": 25
+ },
+ {
+   "Time": "3/28/2018",
+   "Port_name": "kolkata",
+   "fuel_consumed": 24.13960684,
+   "cost": 25
+ },
+ {
+   "Time": "4/28/2018",
+   "Port_name": "kolkata",
+   "fuel_consumed": 24.11007331,
+   "cost": 25
+ },
+ {
+   "Time": "5/28/2018",
+   "Port_name": "kolkata",
+   "fuel_consumed": 24.08863233,
+   "cost": 25
+ },
+ {
+   "Time": "6/28/2018",
+   "Port_name": "kolkata",
+   "fuel_consumed": 24.01421463,
+   "cost": 25
+ },
+ {
+   "Time": "7/28/2018",
+   "Port_name": "kolkata",
+   "fuel_consumed": 24.06189348,
+   "cost": 25
+ },
+ {
+   "Time": "8/28/2018",
+   "Port_name": "kolkata",
+   "fuel_consumed": 24.00899574,
+   "cost": 25
+ },
+ {
+   "Time": "9/28/2018",
+   "Port_name": "kolkata",
+   "fuel_consumed": 24.03271545,
+   "cost": 25
+ },
+ {
+   "Time": "10/28/2018",
+   "Port_name": "kolkata",
+   "fuel_consumed": 24.0192926,
+   "cost": 25
+ },
+ {
+   "Time": "11/28/2018",
+   "Port_name": "kolkata",
+   "fuel_consumed": 24.0440818,
+   "cost": 25
+ },
+ {
+   "Time": "12/28/2018",
+   "Port_name": "kolkata",
+   "fuel_consumed": 24.1119819,
+   "cost": 25
+ },
+ {
+   "Time": "1/28/2019",
+   "Port_name": "kolkata",
+   "fuel_consumed": 24.25578897,
+   "cost": 25
+ },
+ {
+   "Time": "2/28/2019",
+   "Port_name": "kolkata",
+   "fuel_consumed": 24.46025652,
+   "cost": 25
+ },
+ {
+   "Time": "3/28/2019",
+   "Port_name": "kolkata",
+   "fuel_consumed": 24.67461064,
+   "cost": 25
+ },
+ {
+   "Time": "4/28/2019",
+   "Port_name": "kolkata",
+   "fuel_consumed": 24.73074155,
+   "cost": 25
+ },
+ {
+   "Time": "5/28/2019",
+   "Port_name": "kolkata",
+   "fuel_consumed": 24.67043287,
+   "cost": 25
+ },
+ {
+   "Time": "6/28/2019",
+   "Port_name": "kolkata",
+   "fuel_consumed": 24.63729874,
+   "cost": 25
+ },
+ {
+   "Time": "7/28/2019",
+   "Port_name": "kolkata",
+   "fuel_consumed": 24.51179381,
+   "cost": 25
+ },
+ {
+   "Time": "8/28/2019",
+   "Port_name": "kolkata",
+   "fuel_consumed": 24.56336474,
+   "cost": 25
+ },
+ {
+   "Time": "9/28/2019",
+   "Port_name": "kolkata",
+   "fuel_consumed": 24.96366216,
+   "cost": 25
+ },
+ {
+   "Time": "10/28/2019",
+   "Port_name": "kolkata",
+   "fuel_consumed": 41.51385551,
+   "cost": 25
+ },
+ {
+   "Time": "11/28/2019",
+   "Port_name": "kolkata",
+   "fuel_consumed": 41.48325168,
+   "cost": 25
+ },
+ {
+   "Time": "12/28/2019",
+   "Port_name": "kolkata",
+   "fuel_consumed": 41.62934203,
+   "cost": 25
+ },
+ {
+   "Time": "1/28/2017",
+   "Port_name": "manglore",
+   "fuel_consumed": 41.49813343,
+   "cost": 25
+ },
+ {
+   "Time": "2/28/2017",
+   "Port_name": "manglore",
+   "fuel_consumed": 41.7064128,
+   "cost": 25
+ },
+ {
+   "Time": "3/28/2017",
+   "Port_name": "manglore",
+   "fuel_consumed": 41.70793228,
+   "cost": 25
+ },
+ {
+   "Time": "4/28/2017",
+   "Port_name": "manglore",
+   "fuel_consumed": 41.69640932,
+   "cost": 25
+ },
+ {
+   "Time": "5/28/2017",
+   "Port_name": "manglore",
+   "fuel_consumed": 41.64356963,
+   "cost": 25
+ },
+ {
+   "Time": "6/28/2017",
+   "Port_name": "manglore",
+   "fuel_consumed": 42.1917638,
+   "cost": 25
+ },
+ {
+   "Time": "7/28/2017",
+   "Port_name": "manglore",
+   "fuel_consumed": 42.24666553,
+   "cost": 25
+ },
+ {
+   "Time": "8/28/2017",
+   "Port_name": "manglore",
+   "fuel_consumed": 42.00708221,
+   "cost": 25
+ },
+ {
+   "Time": "9/28/2017",
+   "Port_name": "manglore",
+   "fuel_consumed": 41.95222248,
+   "cost": 25
+ },
+ {
+   "Time": "10/28/2017",
+   "Port_name": "manglore",
+   "fuel_consumed": 41.92535206,
+   "cost": 25
+ },
+ {
+   "Time": "11/28/2017",
+   "Port_name": "manglore",
+   "fuel_consumed": 41.76246495,
+   "cost": 25
+ },
+ {
+   "Time": "12/28/2017",
+   "Port_name": "manglore",
+   "fuel_consumed": 41.68959242,
+   "cost": 25
+ },
+ {
+   "Time": "1/28/2018",
+   "Port_name": "manglore",
+   "fuel_consumed": 42.12170826,
+   "cost": 36
+ },
+ {
+   "Time": "2/28/2018",
+   "Port_name": "manglore",
+   "fuel_consumed": 42.18718834,
+   "cost": 36
+ },
+ {
+   "Time": "3/28/2018",
+   "Port_name": "manglore",
+   "fuel_consumed": 42.09867203,
+   "cost": 36
+ },
+ {
+   "Time": "4/28/2018",
+   "Port_name": "manglore",
+   "fuel_consumed": 42.39803555,
+   "cost": 36
+ },
+ {
+   "Time": "5/28/2018",
+   "Port_name": "manglore",
+   "fuel_consumed": 42.1349997,
+   "cost": 36
+ },
+ {
+   "Time": "6/28/2018",
+   "Port_name": "manglore",
+   "fuel_consumed": 42.13683059,
+   "cost": 36
+ },
+ {
+   "Time": "7/28/2018",
+   "Port_name": "manglore",
+   "fuel_consumed": 42.92084897,
+   "cost": 36
+ },
+ {
+   "Time": "8/28/2018",
+   "Port_name": "manglore",
+   "fuel_consumed": 43.36938266,
+   "cost": 36
+ },
+ {
+   "Time": "9/28/2018",
+   "Port_name": "manglore",
+   "fuel_consumed": 43.01355313,
+   "cost": 36
+ },
+ {
+   "Time": "10/28/2018",
+   "Port_name": "manglore",
+   "fuel_consumed": 43.15696116,
+   "cost": 36
+ },
+ {
+   "Time": "11/28/2018",
+   "Port_name": "manglore",
+   "fuel_consumed": 42.97371126,
+   "cost": 36
+ },
+ {
+   "Time": "12/28/2018",
+   "Port_name": "manglore",
+   "fuel_consumed": 43.52820436,
+   "cost": 36
+ },
+ {
+   "Time": "1/28/2019",
+   "Port_name": "manglore",
+   "fuel_consumed": 43.31323115,
+   "cost": 36
+ },
+ {
+   "Time": "2/28/2019",
+   "Port_name": "manglore",
+   "fuel_consumed": 43.34894556,
+   "cost": 36
+ },
+ {
+   "Time": "3/28/2019",
+   "Port_name": "manglore",
+   "fuel_consumed": 43.55643744,
+   "cost": 36
+ },
+ {
+   "Time": "4/28/2019",
+   "Port_name": "manglore",
+   "fuel_consumed": 43.56647679,
+   "cost": 36
+ },
+ {
+   "Time": "5/28/2019",
+   "Port_name": "manglore",
+   "fuel_consumed": 43.71675041,
+   "cost": 36
+ },
+ {
+   "Time": "6/28/2019",
+   "Port_name": "manglore",
+   "fuel_consumed": 43.66000396,
+   "cost": 36
+ },
+ {
+   "Time": "7/28/2019",
+   "Port_name": "manglore",
+   "fuel_consumed": 44.71408481,
+   "cost": 36
+ },
+ {
+   "Time": "8/28/2019",
+   "Port_name": "manglore",
+   "fuel_consumed": 44.37743248,
+   "cost": 36
+ },
+ {
+   "Time": "9/28/2019",
+   "Port_name": "manglore",
+   "fuel_consumed": 44.725254,
+   "cost": 36
+ },
+ {
+   "Time": "10/28/2019",
+   "Port_name": "manglore",
+   "fuel_consumed": 44.07745877,
+   "cost": 36
+ },
+ {
+   "Time": "11/28/2019",
+   "Port_name": "manglore",
+   "fuel_consumed": 44.12259253,
+   "cost": 36
+ },
+ {
+   "Time": "12/28/2019",
+   "Port_name": "manglore",
+   "fuel_consumed": 44.38941279,
+   "cost": 36
+ },
+ {
+   "Time": "1/28/2017",
+   "Port_name": "port blair",
+   "fuel_consumed": 43.57235427,
+   "cost": 36
+ },
+ {
+   "Time": "2/28/2017",
+   "Port_name": "port blair",
+   "fuel_consumed": 43.23477191,
+   "cost": 36
+ },
+ {
+   "Time": "3/28/2017",
+   "Port_name": "port blair",
+   "fuel_consumed": 43.23736969,
+   "cost": 36
+ },
+ {
+   "Time": "4/28/2017",
+   "Port_name": "port blair",
+   "fuel_consumed": 43.67237722,
+   "cost": 36
+ },
+ {
+   "Time": "5/28/2017",
+   "Port_name": "port blair",
+   "fuel_consumed": 44.12173124,
+   "cost": 36
+ },
+ {
+   "Time": "6/28/2017",
+   "Port_name": "port blair",
+   "fuel_consumed": 43.51941734,
+   "cost": 36
+ },
+ {
+   "Time": "7/28/2017",
+   "Port_name": "port blair",
+   "fuel_consumed": 42.81815446,
+   "cost": 36
+ },
+ {
+   "Time": "8/28/2017",
+   "Port_name": "port blair",
+   "fuel_consumed": 42.23642597,
+   "cost": 36
+ },
+ {
+   "Time": "9/28/2017",
+   "Port_name": "port blair",
+   "fuel_consumed": 42.22440328,
+   "cost": 36
+ },
+ {
+   "Time": "10/28/2017",
+   "Port_name": "port blair",
+   "fuel_consumed": 41.93160252,
+   "cost": 36
+ },
+ {
+   "Time": "11/28/2017",
+   "Port_name": "port blair",
+   "fuel_consumed": 41.85139127,
+   "cost": 35
+ },
+ {
+   "Time": "12/28/2017",
+   "Port_name": "port blair",
+   "fuel_consumed": 42.96645787,
+   "cost": 35
+ },
+ {
+   "Time": "1/28/2018",
+   "Port_name": "port blair",
+   "fuel_consumed": 42.75460575,
+   "cost": 35
+ },
+ {
+   "Time": "2/28/2018",
+   "Port_name": "port blair",
+   "fuel_consumed": 42.15857151,
+   "cost": 35
+ },
+ {
+   "Time": "3/28/2018",
+   "Port_name": "port blair",
+   "fuel_consumed": 41.6548935,
+   "cost": 35
+ },
+ {
+   "Time": "4/28/2018",
+   "Port_name": "port blair",
+   "fuel_consumed": 41.75223794,
+   "cost": 35
+ },
+ {
+   "Time": "5/28/2018",
+   "Port_name": "port blair",
+   "fuel_consumed": 41.71503041,
+   "cost": 35
+ },
+ {
+   "Time": "6/28/2018",
+   "Port_name": "port blair",
+   "fuel_consumed": 42.15315737,
+   "cost": 35
+ },
+ {
+   "Time": "7/28/2018",
+   "Port_name": "port blair",
+   "fuel_consumed": 42.66389769,
+   "cost": 35
+ },
+ {
+   "Time": "8/28/2018",
+   "Port_name": "port blair",
+   "fuel_consumed": 42.76118269,
+   "cost": 35
+ },
+ {
+   "Time": "9/28/2018",
+   "Port_name": "port blair",
+   "fuel_consumed": 42.72056721,
+   "cost": 35
+ },
+ {
+   "Time": "10/28/2018",
+   "Port_name": "port blair",
+   "fuel_consumed": 43.63675286,
+   "cost": 35
+ },
+ {
+   "Time": "11/28/2018",
+   "Port_name": "port blair",
+   "fuel_consumed": 44.11253345,
+   "cost": 35
+ },
+ {
+   "Time": "12/28/2018",
+   "Port_name": "port blair",
+   "fuel_consumed": 43.52146107,
+   "cost": 35
+ },
+ {
+   "Time": "1/28/2019",
+   "Port_name": "port blair",
+   "fuel_consumed": 43.41117189,
+   "cost": 35
+ },
+ {
+   "Time": "2/28/2019",
+   "Port_name": "port blair",
+   "fuel_consumed": 42.99839464,
+   "cost": 35
+ },
+ {
+   "Time": "3/28/2019",
+   "Port_name": "port blair",
+   "fuel_consumed": 34.9788429,
+   "cost": 35
+ },
+ {
+   "Time": "4/28/2019",
+   "Port_name": "port blair",
+   "fuel_consumed": 29.48629853,
+   "cost": 35
+ },
+ {
+   "Time": "5/28/2019",
+   "Port_name": "port blair",
+   "fuel_consumed": 34.08279539,
+   "cost": 35
+ },
+ {
+   "Time": "6/28/2019",
+   "Port_name": "port blair",
+   "fuel_consumed": 39.8396475,
+   "cost": 35
+ },
+ {
+   "Time": "7/28/2019",
+   "Port_name": "port blair",
+   "fuel_consumed": 39.93812181,
+   "cost": 35
+ },
+ {
+   "Time": "8/28/2019",
+   "Port_name": "port blair",
+   "fuel_consumed": 40.22290333,
+   "cost": 35
+ },
+ {
+   "Time": "9/28/2019",
+   "Port_name": "port blair",
+   "fuel_consumed": 40.94967787,
+   "cost": 35
+ },
+ {
+   "Time": "10/28/2019",
+   "Port_name": "port blair",
+   "fuel_consumed": 42.40285557,
+   "cost": 35
+ },
+ {
+   "Time": "11/28/2019",
+   "Port_name": "port blair",
+   "fuel_consumed": 41.77366644,
+   "cost": 35
+ },
+ {
+   "Time": "12/28/2019",
+   "Port_name": "port blair",
+   "fuel_consumed": 42.64165138,
+   "cost": 35
+ }
+]

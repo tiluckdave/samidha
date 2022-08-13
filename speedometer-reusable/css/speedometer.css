@@ -1,0 +1,76 @@
+/*!
+	*speedometer.css
+	*author: Manivannan R
+	*project: Speedometer
+*/
+
+.speedometer {
+	background:#0F0F0F;
+	position: relative;
+	
+	border-radius:50%;
+}
+.speedometer .speedNobe{
+	position:absolute;
+	width:100%;
+	z-index:10;	
+	transition: all 1s;
+}
+.speedometer .speedPosition {
+	position: absolute;
+	text-align: center;
+	line-height: 80PX;
+	font-family:arial;
+	font-size: 30px;
+	font-weight:bold;
+	border-radius: 50%;
+	
+	background: #191919;
+	color: #FFF;
+	box-shadow: 0 0 3px 3px black;
+}
+.speedometer .fonts{
+	font-family:arial;
+	font-weight:bold;
+	width:100%;
+	text-align:center;
+}
+
+.speedometer .speedNobe div{
+	background: #48a3cb;
+	position: absolute;
+	height: 100%;
+	top: 0;
+}
+.speedometer .numb,.nob{
+	transition: opacity 1s;
+	position: absolute;
+	opacity: 0.5;
+}
+.speedometer .nob{
+	background:#eee;
+	box-shadow: 0 0 2px 1px #eee;
+}
+.speedometer .numb{
+	
+	color:#eee;
+	text-align: left;
+	overflow: hidden;
+	opacity: 0.5;
+	font-family: arial;
+	font-size: 16px;
+	font-weight: bold;
+}
+.speedometer .nob.bright{
+	opacity: 1;
+}
+.speedometer .nob.danger{
+	background:#FF113A;
+	box-shadow: 0 0 2px 1px #FF113A;
+}
+.speedometer .numb.bright{
+	opacity: 1;
+}
+.speedometer .numb.danger{
+	color: #FF113A;
+}
