@@ -29,6 +29,17 @@
 
     <!-- Template Stylesheet -->
     <link href="css/style.css" rel="stylesheet">
+    <style>
+        .compass-bg {
+  width: 240px;
+  height: 240px;
+  display: flex;
+    justify-content: center;
+    align-items: center;
+
+  background: url("http://vasilis-tsirimokos.com/codepen/compass-bg.png") no-repeat center center;
+        }
+    </style>
 </head>
 
 <body>
@@ -233,20 +244,66 @@
                     <div class="col-sm-12 col-xl-8">
                         <div class="bg-light rounded p-4" >
                             <h4 class="mb-4">Fuels Report</h4>
-                            <canvas id="fuel-report" class="mb-5"></canvas>
+                            <canvas id="fuel-report"></canvas>
                         </div>
                     </div>
                     <div class="col-sm-12 col-xl-4">
-                        <div class="h-100 bg-light rounded p-4">
-                            
-                                <h4 class="mb-4">Ship Status</h4>
-                                <div class="btn-group-vertical w-100" role="group">
-                                    <button type="button" class="btn btn-gray disabled"><strong>Idle</strong><br/>Ship is currently at the port.</button>
-                                    <button type="button" class="btn btn-warning disabled"><strong>Cruising</strong><br/>Ship is on its way.</button>
-                                    <button type="button" class="btn btn-gray disabled"><strong>Operating</strong><br/>Ship is operating for profits.</button>
+                        <div class="bg-light rounded p-4">
+                                <h4 class="mb-4">Animometer</h4>
+                                <div class="w-100 d-flex align-items-center justify-content-center flex-column">
+                                    <div class="compass-bg"> 
+                                        <img class="compass-pointer" src="http://vasilis-tsirimokos.com/codepen/compass-pointer.png"/>
+                                    </div>
+                                    <h4 class="mt-3 text-center">13.0</h4>
+                                    <h6 class="text-center">Km/hr</h6>
                                 </div>
+                        </div>
+                        <!-- <div class="bg-light rounded p-4">
                                 <h4 class="mt-4 mb-2">Speed Report</h4>
                                 <iframe src="./speedometer-reusable/index.html" style="width: 100%; height: 300px;"></iframe>
+                            
+                        </div> -->
+                    </div>
+                </div>
+            </div>
+            <!-- Sales Chart End -->
+            <!-- Sales Chart Start -->
+            <div class="container-fluid pt-4 px-4">
+                <div class="row g-4">
+                    <div class="col-sm-12 col-xl-3">
+                        <div class="h-100 bg-light rounded p-4 mb-4">
+                            <h4 class="mb-4">Vessel Status</h4>
+                            <div class="btn-group-vertical w-100" role="group">
+                                <button type="button" class="btn btn-gray disabled"><strong>Idle</strong>
+                                    <!-- <br/>Ship is currently at the port. -->
+                                </button>
+                                <button type="button" class="btn btn-warning disabled"><strong>Cruising</strong>
+                                    <!-- <br/>Ship is on its way. -->
+                                </button>
+                                <button type="button" class="btn btn-gray disabled"><strong>Operating</strong>
+                                    <!-- <br/>Ship is operating for profits. -->
+                                </button>
+                            </div>
+                    </div>
+                    </div>
+                    <div class="col-sm-12 col-xl-4">
+                        
+                        <div class="bg-light rounded p-4">
+                                <h4 class="mb-2">Speed Report</h4>
+                                <iframe src="./speedometer-reusable/index.html" style="width: 100%; height: 266px; overflow: hidden; margin-left: 10px"></iframe>
+                            
+                        </div>
+                    </div>
+                    <div class="col-sm-12 col-xl-5">
+                        
+                        <div class="h-100 bg-light rounded p-4">
+                                <h4 class="mb-4">GPS</h4>
+                                
+                                    <iframe class="position-relative rounded w-100 h-75"
+                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3001156.4288297426!2d-78.01371936852176!3d42.72876761954724!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4ccc4bf0f123a5a9%3A0xddcfc6c1de189567!2sNew%20York%2C%20USA!5e0!3m2!1sen!2sbd!4v1603794290143!5m2!1sen!2sbd"
+                                    frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false"
+                                    tabindex="0"></iframe>
+                                
                             
                         </div>
                     </div>

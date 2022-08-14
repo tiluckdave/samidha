@@ -15,12 +15,12 @@ function speedometer(userPref){
     maxDeg              : 270,                /**total angle of the meter reading*/
     
     speedNobeH          : 4,                  /**speed nobe height*/
-    speedoNobeW         : 80,                 /**speed nobe width*/
-    speedoNobeL         : 40,                 /**speed nobe left position*/
+    speedoNobeW         : 70,                 /**speed nobe width*/
+    speedoNobeL         : 30,                 /**speed nobe left position*/
     
-    edgeRadius          : 138,                /**radius of the meter circle*/
-    indicatorRadius     : 125,                /**radius of indicators position*/
-    indicatorNumbRadius : 90,                 /**radius of numbers position*/
+    edgeRadius          : 125,                /**radius of the meter circle*/
+    indicatorRadius     : 110,                /**radius of indicators position*/
+    indicatorNumbRadius : 75,                 /**radius of numbers position*/
     
     speedPositionTxtWH  : 80,                 /**speedo-meter current value cont*/
     
