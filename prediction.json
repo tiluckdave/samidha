@@ -1,0 +1,32 @@
+[
+    {
+      "vessel": "STERLING II",
+      "imo": "9619907",
+      "destination": "Port Blair"
+    },
+    {
+      "vessel": "INS VIKRANTH",
+      "imo": "9623981",
+      "destination": "Cochi"
+    },
+    {
+      "vessel": "SAPHIRE",
+      "imo": "9874632",
+      "destination": "London"
+    },
+    {
+      "vessel": "AMAZONITE",
+      "imo": "1727454",
+      "destination": "Indonesia"
+    },
+    {
+      "vessel": "BIG NAUTI",
+      "imo": "7647842",
+      "destination": "Mumbai"
+    },
+    {
+      "vessel": "LURGAN CANOE",
+      "imo": "6452955",
+      "destination": "Tokyo"
+    }
+]
