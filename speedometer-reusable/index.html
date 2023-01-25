@@ -4,77 +4,83 @@
   *project: Speedometer
 -->
 <html>
+
 <head>
-<link href="css/speedometer.css" rel="stylesheet" type="text/css" />
+  <link href="css/speedometer.css" rel="stylesheet" type="text/css" />
 </head>
+
 <body>
 
-  
+
   <div id="speedometer-1"></div>
 
 </body>
 <script src="js/speedometer.js"></script>
 <script type="text/javascript">
-  
-  var speedoMeter1 = new speedometer();
-  document.getElementById('speedometer-1').append(speedoMeter1.elm);
 
-  var speedoMeterInputRange = document.getElementById('speedoMeterInputRange-1');
-  var speedoMeterInputRangeVal = document.getElementById('speedoMeterInputRange-value-1');
-
-  var applyconfig1 = document.getElementById('applyconfig1');
-  var applyconfig2 = document.getElementById('applyconfig2');
-  var defaultConfig = document.getElementById('defaultConfig');
-
-  speedoMeterInputRange.onchange = function(e){
-    speedoMeter1.setPosition(e.target.value);
-    speedoMeterInputRangeVal.innerText = e.target.value;
-  }
-  
-  defaultConfig.onclick = function(e){
-    speedoMeter1 = new speedometer({initVal:speedoMeterInputRange.value});
-    document.getElementById('speedometer-1').innerHTML = '';
+  window.onload = function () {
+    var speedoMeter1 = new speedometer();
     document.getElementById('speedometer-1').append(speedoMeter1.elm);
+
+    var speedoMeterInputRange = document.getElementById('speedoMeterInputRange-1');
+    var speedoMeterInputRangeVal = document.getElementById('speedoMeterInputRange-value-1');
+
+    var applyconfig1 = document.getElementById('applyconfig1');
+    var applyconfig2 = document.getElementById('applyconfig2');
+    var defaultConfig = document.getElementById('defaultConfig');
+
+    // wrap inside window.onload to make sure the DOM is loaded
+    speedoMeterInputRange.onchange = function (e) {
+      speedoMeter1.setPosition(e.target.value);
+      speedoMeterInputRangeVal.innerText = e.target.value;
+    }
+
+    defaultConfig.onclick = function (e) {
+      speedoMeter1 = new speedometer({ initVal: speedoMeterInputRange.value });
+      document.getElementById('speedometer-1').innerHTML = '';
+      document.getElementById('speedometer-1').append(speedoMeter1.elm);
+    }
+
+    applyconfig1.onclick = function (e) {
+      speedoMeter1 = new speedometer({
+
+        divFact: 5,
+        initVal: 120,
+
+        edgeRadius: 300,
+        indicatorRadius: 280,
+        indicatorNumbRadius: 220,
+
+        speedoNobeW: 250,
+        id: 'mani-1'
+
+      });
+      document.getElementById('speedometer-1').innerHTML = '';
+      document.getElementById('speedometer-1').append(speedoMeter1.elm);
+    }
+
+    applyconfig2.onclick = function (e) {
+      speedoMeter1 = new speedometer({
+        divFact: 20,
+        maxVal: 240,
+
+        initVal: 120,
+
+        dangerColor: 'green',
+        bgColor: '#aaa',
+
+        speedArrowColor: 'red',
+        nobNumbColor: 'yellow',
+
+        speedValBGColor: '#666',
+        speedValTxtColor: 'blue'
+      });
+      document.getElementById('speedometer-1').innerHTML = '';
+      document.getElementById('speedometer-1').append(speedoMeter1.elm);
+
+    }
   }
 
-  applyconfig1.onclick = function(e){
-    speedoMeter1 = new speedometer({
-    
-      divFact:5, 
-      initVal:120, 
-
-      edgeRadius: 300, 
-      indicatorRadius: 280, 
-      indicatorNumbRadius:220,
-      
-      speedoNobeW: 250,
-      id: 'mani-1'
-
-    });
-    document.getElementById('speedometer-1').innerHTML = '';
-    document.getElementById('speedometer-1').append(speedoMeter1.elm);
-  }
-
-  applyconfig2.onclick = function(e){
-    speedoMeter1 = new speedometer({
-      divFact:20, 
-      maxVal: 240,
-
-      initVal:120,
-
-      dangerColor: 'green',
-      bgColor: '#aaa',
-      
-      speedArrowColor: 'red',
-      nobNumbColor: 'yellow',
-
-      speedValBGColor: '#666',
-      speedValTxtColor: 'blue'
-    });
-    document.getElementById('speedometer-1').innerHTML = '';
-    document.getElementById('speedometer-1').append(speedoMeter1.elm);
-  
-  }
-  
 </script>
-</html>    
+
+</html>
